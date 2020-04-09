@@ -1,0 +1,110 @@
+
+
+body{
+    background-color:navy;
+
+text-align: center;
+font-size: 10px;
+
+
+}
+
+body p{
+    text-align: center;
+    font-weight: 500;
+    font-style: inherit;
+}
+
+
+
+.container h1{
+    font-size: 30px;
+    color: navy;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+   
+
+}
+
+ .container{
+
+    text-align: center;
+    display: inline-block;
+    margin: 5em;
+    
+    text-align: left;
+    background-color: #ffffff;
+    width: 35%;
+    border-radius: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: small;
+    font-weight: bold;
+font-family: inherit
+ }
+
+.select, label{
+margin: auto;
+}
+
+
+
+
+    
+
+
+.container .field{
+     padding: 20px;
+ }
+ label{
+     display: block;
+ }
+
+
+ .field input{
+padding: 8px;
+width: 80%;
+border-radius: 10px;
+margin: auto;
+background-image:#ADD8E6 ;
+ }
+
+ .select, label{
+     padding: 2px;
+     
+ }
+
+  .container .custom-select select {  
+      padding: 8px;
+    width: 80%;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 1em;
+    text-align: right;
+    background-image:#ADD8E6 ;
+    height: 2.3rem;
+padding-top: 5px;
+  }
+
+   
+ 
+ 
+.button_1{
+    width: 80%;
+    background-color:navy;
+    padding : 8px;
+        color: #ffffff;
+    margin: auto;
+    margin-right: auto;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+    }
+
+    .Link, h2{
+        color: #ffffff;
+        padding: 0.2px;
+        font: 1.2em sans-serif;
+    }
